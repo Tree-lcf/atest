@@ -1,4 +1,4 @@
 <<<<<< HEAD
 this is a test!
 1.this is a test!
->>>>>>> 1st commit
+>>>>>> 1st commit
